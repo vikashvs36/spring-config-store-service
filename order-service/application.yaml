@@ -1,0 +1,5 @@
+
+microservices:
+  order-service:
+    uri:
+      payment_post: http://payment-service/api/payment-service/payment
