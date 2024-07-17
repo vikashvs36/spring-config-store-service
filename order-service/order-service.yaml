@@ -1,4 +1,3 @@
 
 order-service:
-    uri:
-      payment_post: http://payment-service/api/payment-service/payment
+    uri: http://payment-service/api/payment-service/payment
